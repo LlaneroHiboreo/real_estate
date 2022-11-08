@@ -1,0 +1,13 @@
+{
+    "escrow":{
+        "seller":"0x33A4622B82D4c04a53e170c638B944ce27cffce3",
+        "inspector":"0x0063046686E46Dc6F15918b61AE2B121458534a5",
+        "lender": "0x21b42413bA931038f35e7A5224FaDb065d297Ba3",
+        "buyer": "0x46C0a5326E643E4f71D3149d50B48216e174Ae84"
+    },
+    "metadata":{
+        "property_1":"https://ipfs.io/ipfs/QmQVcpsjrA6cr1iJjZAodYwmPekYgbnXGo4DFubJiLc2EB/1.json",
+        "property_2":"https://ipfs.io/ipfs/QmQVcpsjrA6cr1iJjZAodYwmPekYgbnXGo4DFubJiLc2EB/2.json",
+        "property_3":"https://ipfs.io/ipfs/QmQVcpsjrA6cr1iJjZAodYwmPekYgbnXGo4DFubJiLc2EB/3.json"
+    }
+}
